@@ -1,4 +1,4 @@
-UI Scale 0.53
+UI Scale 0.53 <br>
 Display Mode Windowed, Fullscreen
 Resolution 2560 x 1440
 Render Scale 83%
