@@ -1,3 +1,8 @@
+UI Scale 0.53
+Display Mode Windowed, Fullscreen
+Resolution 2560 x 1440
+Render Scale 83%
+
 Required Addons:
 
     ElvUI
@@ -14,8 +19,3 @@ Optional Addons:
 
     Hekili Priority Helper
     Nameplate Scrolling Combat Text
-
-Display Mode Windowed, Fullscreen
-Resolution 2560 x
-1440
-Render Scale 83%
