@@ -1,7 +1,9 @@
 UI Scale 0.53 <br>
-Display Mode Windowed, Fullscreen
-Resolution 2560 x 1440
-Render Scale 83%
+Display Mode Windowed, Fullscreen <br>
+Resolution 2560 x 1440 <br>
+Render Scale 83% <br>
+Elvui > General > Fonts > Combat Font Oswald <br>
+Elvui > General > Fonts > Name Font > Oswald
 
 Required Addons:
 
