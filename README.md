@@ -13,12 +13,12 @@
 - ElvUI Eltruism
 - ElvUI mMediaTag & Tools
 - AddOnSkins
+
+## Optional Addons
+- Hekili Priority Helper
+- Nameplate Scrolling Combat Text
 - BigWigs Boss Mods
 - Details!
 - Method Raid Tools
 - Plater Nameplates
 - WeakAuras
-
-## Optional Addons
-- Hekili Priority Helper
-- Nameplate Scrolling Combat Text
