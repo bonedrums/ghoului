@@ -1,0 +1,22 @@
+
+AddOnSkinsDB = {
+	["profileKeys"] = {
+		["Gourgamell - Benediction"] = "GhoulUI",
+	},
+	["profiles"] = {
+		["GhoulUI"] = {
+			["Font"] = "Oswald",
+			["EmbedBackdrop"] = false,
+			["EmbedBackdropTransparent"] = false,
+			["DBMFont"] = "Oswald",
+			["EmbedSystemMessage"] = false,
+			["EmbedFrameStrata"] = "4-HIGH",
+			["FontFlag"] = "SHADOWOUTLINE",
+			["EmbedLeftWidth"] = 230,
+			["EmbedSystemDual"] = true,
+			["EmbedFrameLevel"] = 100,
+		},
+	},
+}
+AddOnSkinsDS = {
+}
